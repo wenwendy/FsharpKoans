@@ -1,0 +1,11 @@
+/Users/devglofish/FSharpKoans/FSharpKoans.Test/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/Users/devglofish/FSharpKoans/FSharpKoans.Test/bin/Debug/FSharpKoans.Test.dll.mdb
+/Users/devglofish/FSharpKoans/FSharpKoans.Test/bin/Debug/FSharpKoans.Test.dll
+/Users/devglofish/FSharpKoans/FSharpKoans.Test/obj/Debug/FSharpKoans.Test.dll
+/Users/devglofish/FSharpKoans/FSharpKoans.Test/obj/Debug/FSharpKoans.Test.dll.mdb
+/Users/devglofish/FSharpKoans/FSharpKoans.Test/bin/Debug/nunit.framework.dll
+/Users/devglofish/FSharpKoans/FSharpKoans.Test/bin/Debug/nunit.mocks.dll
+/Users/devglofish/FSharpKoans/FSharpKoans.Test/bin/Debug/pnunit.framework.dll
+/Users/devglofish/FSharpKoans/FSharpKoans.Test/bin/Debug/FSharpKoans.Core.dll
+/Users/devglofish/FSharpKoans/FSharpKoans.Test/bin/Debug/FSharpKoans.Core.dll.mdb
+/Users/devglofish/FSharpKoans/FSharpKoans.Test/bin/Debug/FSharpKoans.Core.xml

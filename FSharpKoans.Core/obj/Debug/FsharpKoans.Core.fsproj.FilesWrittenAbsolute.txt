@@ -1,0 +1,8 @@
+/Users/devglofish/FSharpKoans/FSharpKoans.Core/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/Users/devglofish/FSharpKoans/FSharpKoans.Core/bin/Debug/FSharpKoans.Core.dll.mdb
+/Users/devglofish/FSharpKoans/FSharpKoans.Core/bin/Debug/FSharpKoans.Core.dll
+/Users/devglofish/FSharpKoans/FSharpKoans.Core/obj/Debug/FSharpKoans.Core.dll
+/Users/devglofish/FSharpKoans/FSharpKoans.Core/obj/Debug/FSharpKoans.Core.dll.mdb
+/Users/devglofish/FSharpKoans/FSharpKoans.Core/bin/Debug/nunit.framework.dll
+/Users/devglofish/FSharpKoans/FSharpKoans.Core/bin/Debug/nunit.mocks.dll
+/Users/devglofish/FSharpKoans/FSharpKoans.Core/bin/Debug/pnunit.framework.dll
